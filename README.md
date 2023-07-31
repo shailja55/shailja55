@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm shailja bhardwaj</h1>
 <h3 align="center">A passionate web developer from India</h3> 
-<image align="right" alt="coding" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&psig=AOvVaw0I55tGqkx8Fcrnm4uvic6o&ust=1690867029678000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCFgtaYuIADFQAAAAAdAAAAABAE> 
+<image align="right" alt="coding" width="400"src=https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&psig=AOvVaw0I55tGqkx8Fcrnm4uvic6o&ust=1690867029678000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCFgtaYuIADFQAAAAAdAAAAABAE> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailja55&label=Profile%20views&color=0e75b6&style=flat" alt="shailja55" /> </p>
 
 - 📫 How to reach me **ruhidevhariti@gmail.com**
